@@ -11,7 +11,7 @@ Manual functional testing of the HelloGrowth CRM web application — a customer 
 | **Tester**         | Priyanshu Negi                               |
 | **Application**    | HelloGrowth CRM                              |
 | **Test Type**      | Manual Functional Testing                    |
-| **GitHub**         | [igpriyanshunegi/hellgrowth-crm-qa-testing](https://github.com/igpriyanshunegi/hellogrowth-crm-qa-testing) |
+| **GitHub**         | [igpriyanshunegi/hellogrowth-crm-qa-testing](https://github.com/igpriyanshunegi/hellogrowth-crm-qa-testing) |
 
 ---
 
